@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Notiva — Flutter Notes App
 
 A beautiful, feature-rich notes application built with Flutter. Designed to showcase production-quality code architecture, modern UI design, and thoughtful UX — perfect for your portfolio.
@@ -155,3 +156,6 @@ uuid: ^4.4.0              # Unique note IDs
 ## 📄 License
 
 MIT — Free to use in portfolio projects.
+=======
+# Notes_App
+>>>>>>> 2beb26c1764ed98c0b38c3a16e2394acae59ca10
